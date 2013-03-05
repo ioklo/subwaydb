@@ -1,0 +1,10 @@
+# .gitignore
+# visual studio user specific file
+*.suo
+
+# compiler output 
+bin/
+obj/
+
+# backup file
+*.bak
